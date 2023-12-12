@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small package for Movie Recommender System
+Author: Lankeeth
+Author-email: hiranyalankeeth@gmail.com
+Requires-Python: >=3.11.3
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+
+Movies Recommender System
